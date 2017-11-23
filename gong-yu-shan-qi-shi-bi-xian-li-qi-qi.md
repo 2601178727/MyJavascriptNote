@@ -1,6 +1,6 @@
-> vsCode 
+> vsCode
 >
-> 自动格式化代码快捷键 
+> 自动格式化代码快捷键
 >
 > ```
 > windows：Shift + Alt + F
@@ -9,7 +9,7 @@
 >
 > Ubuntu： Ctrl + Shift + I
 > ```
-
+>
 > 保存时根据ESlint格式化代码
 >
 > ```
