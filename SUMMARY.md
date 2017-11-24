@@ -13,6 +13,8 @@
     * [\[ 第四节 \]——代码合并与加载策略](vuejs/di-si-jie-2014-2014-dai-ma-he-bing-yu-jia-zai-ce-lve.md)
     * [\[ 第五节 \]——路由与状态的管理](vuejs/di-wu-jie-2014-2014-lu-you-yu-zhuang-tai-de-guan-li.md)
     * [\[ 第六节 \]——缓存与本地存储](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu.md)
+      * [接口API](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu/jie-kou-api.md)
+      * [使用store](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu/shi-yong-store.md)
     * [\[ 第七节 \]——服务端通信](vuejs/di-qi-jie-2014-2014-fu-wu-duan-tong-xin.md)
     * [\[ 第八节 \]——内存管理](vuejs/di-ba-jie-2014-2014-nei-cun-guan-li.md)
     * [\[ 第九节 \]——样式的规划](vuejs/di-jiu-jie-2014-2014-yang-shi-de-gui-hua.md)
