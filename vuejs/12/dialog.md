@@ -1,5 +1,5 @@
-> 关键词 dialogFormVisible 、 showDialog、this.$emit\('update:showDialog', false\)
->
+关键词 dialogFormVisible 、 showDialog、this.$emit\('update:showDialog', false\)
+
 > 思路：组件中dialogFormVisible 的值未true、false会影响到对话框的显示和隐藏
 >
 > 那么如果想要在父组件中showDialog操作子组件的值就需要传值、并通过watch来监听变化执行函数

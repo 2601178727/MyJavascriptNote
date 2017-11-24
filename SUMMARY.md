@@ -3,11 +3,12 @@
 * [MyJavascriptNote](README.md)
   * [\[ 前言 \]](di-yi-7ae0-md.md)
   * [\[ 工欲善其事必先利其器 \]](gong-yu-shan-qi-shi-bi-xian-li-qi-qi.md)
-  * [\[ 第一章 \]——Vuejs](vuejs.md)
-    * [\[ 第一节 \]——单页面应用渲染机制](vuejs/vuejsdan-ye-mian-ying-yong-xuan-ran-ji-5236-md.md)
-      * [样式污染.md](vuejs/vuejsdan-ye-mian-ying-yong-xuan-ran-ji-5236-md/yang-shi-wu-67d3-md.md)
-  * [\[ 第二章 \]——ElementUI](elementui.md)
-    * [\[ 第一节 \]Dialog](elementui/table.md)
-      * [对话框的弹出和隐藏.md](elementui/table/zu-jian-chuan-zhi-kong-zhi-dui-hua-kuang-de-dan-chu-he-yin-cang.md)
-    * \[ 第二节 \]——Table
+  * [\[ 第一章 \]——构建单页Web应用](vuejs.md)
+    * [\[ 第一节 \]——开发框架](vuejs/12.md)
+      * VueJs
+      * ElementUI
+        * [Dialog](vuejs/12/dialog.md)
+    * \[ 第二节 \]——组件化
+    * [\[ 第三节 \]——代码隔离](vuejs/dai-ma-ge-li.md)
+      * [样式污染](vuejs/dai-ma-ge-li/yang-shi-wu-ran.md)
 
