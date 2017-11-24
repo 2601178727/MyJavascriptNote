@@ -9,6 +9,7 @@
       * [ElementUI](vuejs/12/elementui.md)
         * [Dialog](vuejs/12/dialog.md)
     * [\[ 第二节 \]——组件化](vuejs/di-er-jie-2014-2014-zu-jian-hua.md)
+      * [export default 和 export 区别](vuejs/di-er-jie-2014-2014-zu-jian-hua/export-default-he-export-qu-bie.md)
     * [\[ 第三节 \]——代码隔离](vuejs/dai-ma-ge-li.md)
     * [\[ 第四节 \]——代码合并与加载策略](vuejs/di-si-jie-2014-2014-dai-ma-he-bing-yu-jia-zai-ce-lve.md)
     * [\[ 第五节 \]——路由与状态的管理](vuejs/di-wu-jie-2014-2014-lu-you-yu-zhuang-tai-de-guan-li.md)
