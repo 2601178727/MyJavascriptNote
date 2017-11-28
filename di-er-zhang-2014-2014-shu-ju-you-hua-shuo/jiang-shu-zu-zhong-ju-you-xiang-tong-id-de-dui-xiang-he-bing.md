@@ -2,8 +2,6 @@
 
 ![](/assets/import.png)
 
-
-
 ```
 API.post('api/lesson/list', formData)
         .then((res) => {
