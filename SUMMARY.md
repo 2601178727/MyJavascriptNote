@@ -29,4 +29,6 @@
     * [\[ 第十五节 \]——兼顾性能、兼顾SEO，还是单页面应用，是可以做到的！](vuejs/di-shi-wu-jie-2014-2014-jian-gu-xing-neng-3001-jian-gu-seo-ff0c-huan-shi-dan-ye-mian-ying-yong-ff0c-shi-ke-yi-zuo-dao-de-ff01.md)
   * [\[ 第二章 \]——数据有话说](di-er-zhang-2014-2014-shu-ju-you-hua-shuo.md)
     * [将数组中具有相同id的对象合并](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/jiang-shu-zu-zhong-ju-you-xiang-tong-id-de-dui-xiang-he-bing.md)
+  * \[ 第三章 \]——this知多少
+    * [this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
 
