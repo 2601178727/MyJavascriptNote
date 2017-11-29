@@ -1,8 +1,4 @@
-
-
 **this的指向在函数定义的时候是确定不了的，只有函数执行的时候才能确定this到底指向谁**，**实际上this的最终指向的是那个调用它的对象**
-
-
 
     viewData: [
             {
@@ -18,7 +14,9 @@
               inputValue: '',
               renderHeader: (createElement) => {
                 let self = this
-                console.log(self, 2222)
+                console.log(self, 2222) 
+                //这里的this指向的就是viewData，这里用了es6的语法 也可写出renderHeader： function () {}
+                //如果写出renderHeader (createElement) {} 就会出错，因为没有key值，那么他的this指向的就是他本身
                 return createElement('div', {
                   domProps: {
                     innerHTML: `
