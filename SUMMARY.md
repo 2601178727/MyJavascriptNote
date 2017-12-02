@@ -33,4 +33,5 @@
   * \[ 第三章 \]——this知多少
     * [this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
   * \[ .第四章 \]——时间管理器
+    * [moment.js时间管理器](momentjsshi-jian-guan-li-qi.md)
 
