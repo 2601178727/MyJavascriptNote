@@ -32,4 +32,5 @@
     * [JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
   * \[ 第三章 \]——this知多少
     * [this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
+  * \[ .第四章 \]——时间管理器
 
