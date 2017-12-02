@@ -14,6 +14,8 @@
     * [\[ 第三节 \]——代码隔离](vuejs/dai-ma-ge-li.md)
     * [\[ 第四节 \]——代码合并与加载策略](vuejs/di-si-jie-2014-2014-dai-ma-he-bing-yu-jia-zai-ce-lve.md)
     * [\[ 第五节 \]——路由与状态的管理](vuejs/di-wu-jie-2014-2014-lu-you-yu-zhuang-tai-de-guan-li.md)
+      * 路由表
+      * 路由参数
     * [\[ 第六节 \]——缓存与本地存储](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu.md)
       * [接口API](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu/jie-kou-api.md)
       * [使用store](vuejs/di-liu-jie-2014-2014-huan-cun-yu-ben-di-cun-chu/shi-yong-store.md)
