@@ -34,8 +34,9 @@
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
   * \[ 第三章 \]——this知多少
     * [\[ 第一节 \]this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
-  * \[ .第四章 \]——时间管理器
+  * \[ 第四章 \]——时间管理器
     * [\[ 第一节 \]moment.js时间管理器](momentjsshi-jian-guan-li-qi.md)
   * [\[ 第五章 \]——响应式布局、媒体查询](di-wu-zhang-2014-2014-xiang-ying-shi-bu-ju-3001-mei-ti-cha-xun.md)
     * [CSS3 媒体查询](di-wu-zhang-2014-2014-xiang-ying-shi-bu-ju-3001-mei-ti-cha-xun/css3-mei-ti-cha-xun.md)
+  * \[ 第六章 \]——文本问题
 
