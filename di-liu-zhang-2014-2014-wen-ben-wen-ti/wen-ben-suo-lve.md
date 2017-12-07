@@ -1,10 +1,4 @@
-
-
 ![](/assets/import1.png)
-
-
-
-
 
 ```
 text-overflow: ellipsis;
