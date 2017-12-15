@@ -30,6 +30,7 @@
     * [\[ 第十四节 \]——用JS渲染的单页面应用其实性能还是比较差的](vuejs/di-shi-si-jie-2014-2014-yong-js-xuan-ran-de-dan-ye-mian-ying-yong-qi-shi-xing-neng-huan-shi-bi-jiao-cha-de.md)
     * [\[ 第十五节 \]——兼顾性能、兼顾SEO，还是单页面应用，是可以做到的！](vuejs/di-shi-wu-jie-2014-2014-jian-gu-xing-neng-3001-jian-gu-seo-ff0c-huan-shi-dan-ye-mian-ying-yong-ff0c-shi-ke-yi-zuo-dao-de-ff01.md)
     * [\[ 第十六节 \]——适配打点](vuejs/di-shi-liu-jie-2014-2014-shi-pei-da-dian.md)
+    * [\[ 第十七节 \]——阿里巴巴图标矢量库](vuejs/di-shi-qi-jie-2014-2014-a-li-ba-ba-tu-biao-shi-liang-ku.md)
   * [\[ 第二章 \]——数据有话说](di-er-zhang-2014-2014-shu-ju-you-hua-shuo.md)
     * [\[ 第一节 \]将数组中具有相同id的对象合并](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/jiang-shu-zu-zhong-ju-you-xiang-tong-id-de-dui-xiang-he-bing.md)
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
