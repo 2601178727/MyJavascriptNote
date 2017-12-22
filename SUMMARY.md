@@ -43,4 +43,5 @@
   * [\[ 第六章 \]——文本问题](di-liu-zhang-2014-2014-wen-ben-wen-ti.md)
     * [label](di-liu-zhang-2014-2014-wen-ben-wen-ti/label.md)
     * [文本缩略](di-liu-zhang-2014-2014-wen-ben-wen-ti/wen-ben-suo-lve.md)
+    * [文本折行与断词](di-liu-zhang-2014-2014-wen-ben-wen-ti/wen-ben-zhe-xing-yu-duan-ci.md)
 
