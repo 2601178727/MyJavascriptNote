@@ -33,6 +33,7 @@
     * [\[ 第十六节 \]——适配打点](vuejs/di-shi-liu-jie-2014-2014-shi-pei-da-dian.md)
     * [\[ 第十七节 \]——阿里巴巴图标矢量库](vuejs/di-shi-qi-jie-2014-2014-a-li-ba-ba-tu-biao-shi-liang-ku.md)
     * [\[ 第十八节 \]——点击下载的各种姿势](vuejs/di-shi-ba-jie-2014-2014-dian-ji-xia-zai-de-ge-zhong-zi-shi.md)
+    * [\[ 第十九章 \]——列表渲染](vuejs/di-shi-jiu-zhang-2014-2014-lie-biao-xuan-ran.md)
   * [\[ 第二章 \]——数据有话说](di-er-zhang-2014-2014-shu-ju-you-hua-shuo.md)
     * [\[ 第一节 \]将数组中具有相同id的对象合并](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/jiang-shu-zu-zhong-ju-you-xiang-tong-id-de-dui-xiang-he-bing.md)
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
