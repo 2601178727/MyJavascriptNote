@@ -37,6 +37,7 @@
   * [\[ 第二章 \]——数据有话说](di-er-zhang-2014-2014-shu-ju-you-hua-shuo.md)
     * [\[ 第一节 \]将数组中具有相同id的对象合并](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/jiang-shu-zu-zhong-ju-you-xiang-tong-id-de-dui-xiang-he-bing.md)
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
+    * [\[ 第三节 \]——向数组中添加元素](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/di-san-jie-2014-2014-xiang-shu-zu-zhong-tian-jia-yuan-su.md)
   * \[ 第三章 \]——this知多少
     * [\[ 第一节 \]this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
   * \[ 第四章 \]——时间管理器
