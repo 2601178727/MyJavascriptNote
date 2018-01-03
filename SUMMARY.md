@@ -36,6 +36,7 @@
     * [\[ 第十九节 \]——列表渲染](vuejs/di-shi-jiu-zhang-2014-2014-lie-biao-xuan-ran.md)
     * [\[ 第二十节 \]——返回上一页](vuejs/di-er-shi-jie-2014-2014-fan-hui-shang-yi-ye.md)
     * [\[ 第二十一节 \]——H5适配iOS、Android](vuejs/di-er-shi-yi-jie-h5-shi-pei-ios-android.md)
+    * [\[ 第二十二节 \]——兼容性处理](vuejs/di-er-shi-er-jie-2014-2014-jian-rong-xing-chu-li.md)
   * [\[ 第二章 \]——数据有话说](di-er-zhang-2014-2014-shu-ju-you-hua-shuo.md)
     * [\[ 第一节 \]将数组中具有相同id的对象合并](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/jiang-shu-zu-zhong-ju-you-xiang-tong-id-de-dui-xiang-he-bing.md)
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
