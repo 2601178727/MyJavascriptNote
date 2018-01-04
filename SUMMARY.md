@@ -57,4 +57,5 @@
   * [\[ 第九章 \]——input妙用](di-jiu-zhang-input-miao-yong.md)
   * [\[ 第十章 \]——进度条](di-shi-zhang-2014-2014-jin-du-tiao.md)
   * [\[ 第十一章 \]——js高级选择器](di-shi-yi-zhang-js-gao-ji-xuan-ze-qi.md)
+  * [\[ 第十二章 \]——VUE生命周期](di-shi-er-zhang-vue-sheng-ming-zhou-qi.md)
 
