@@ -6,6 +6,7 @@
   * [\[ 第一章 \]——构建单页Web应用](vuejs.md)
     * [\[ 第一节 \]——开发框架](vuejs/12.md)
       * [VueJs](vuejs/12/vuejs.md)
+        * [异步数据更新](vuejs/12/vuejs/yi-bu-shu-ju-geng-xin.md)
       * [ElementUI](vuejs/12/elementui.md)
         * [Dialog](vuejs/12/dialog.md)
     * [\[ 第二节 \]——组件化](vuejs/di-er-jie-2014-2014-zu-jian-hua.md)
