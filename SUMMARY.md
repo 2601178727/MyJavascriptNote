@@ -45,6 +45,7 @@
     * [\[ 第二节 \]JavaScript数组Array对象增加和删除元素方法](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/javascriptshu-zu-array-dui-xiang-zeng-jia-he-shan-chu-yuan-su-fang-fa.md)
     * [\[ 第三节 \]——向数组中添加元素](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/di-san-jie-2014-2014-xiang-shu-zu-zhong-tian-jia-yuan-su.md)
     * [\[ 第四节 \]——es6动态键值](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/di-si-jie-es6-dong-tai-jian-zhi.md)
+    * [\[ 第五节 \]——更改数组结构以适应产品需求](di-er-zhang-2014-2014-shu-ju-you-hua-shuo/di-wu-jie-2014-2014-geng-gai-shu-zu-jie-gou-yi-shi-ying-chan-pin-xu-qiu.md)
   * \[ 第三章 \]——this知多少
     * [\[ 第一节 \]this指向——作用域问题](thiszhi-xiang-2014-2014-zuo-yong-yu-wen-ti.md)
   * \[ 第四章 \]——时间管理器
