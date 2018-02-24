@@ -3,7 +3,7 @@
 ```
 
 ```
-hasPcData (oldContent, number) {
+reData (oldContent, number) {
       let num = oldContent.length
       let netData = new Array()
       let ai = 0
