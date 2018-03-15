@@ -8,6 +8,7 @@
       * [VueJs](vuejs/12/vuejs.md)
         * [异步数据更新](vuejs/12/vuejs/yi-bu-shu-ju-geng-xin.md)
         * [vue $refs的基本用法](vuejs/12/vuejs/vue-refsde-ji-ben-yong-fa.md)
+        * [定义全局函数](vuejs/12/vuejs/ding-yi-quan-ju-han-shu.md)
       * [ElementUI](vuejs/12/elementui.md)
         * [Dialog](vuejs/12/dialog.md)
     * [\[ 第二节 \]——组件化](vuejs/di-er-jie-2014-2014-zu-jian-hua.md)
