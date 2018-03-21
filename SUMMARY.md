@@ -63,4 +63,6 @@
   * [\[ 第十章 \]——进度条](di-shi-zhang-2014-2014-jin-du-tiao.md)
   * [\[ 第十一章 \]——js高级选择器](di-shi-yi-zhang-js-gao-ji-xuan-ze-qi.md)
   * [\[ 第十二章 \]——VUE生命周期](di-shi-er-zhang-vue-sheng-ming-zhou-qi.md)
+* [\[ 散例 \]——一些在开发中查找资料最终解决的问题](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti.md)
+  * [判断终端执行代码（IOS、Android、Pc）](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/pan-duan-zhong-duan-zhi-xing-dai-ma-ff08-ios-android-pc.md)
 
