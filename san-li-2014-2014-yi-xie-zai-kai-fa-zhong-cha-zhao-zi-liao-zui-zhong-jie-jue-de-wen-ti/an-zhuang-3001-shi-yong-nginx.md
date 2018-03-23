@@ -13,7 +13,7 @@ sudo brew install nginx
 ## 3. 启动 nginx {#3-启动-nginx}
 
 ```
-sudo nginx  
+sudo nginx
 ```
 
 也可以使用下面的命令启动，但是配置文件nginx.conf修改后用这个命令执行不生效，故不建议使用：
@@ -29,6 +29,12 @@ sudo brew services start nginx
 ![](http://img.blog.csdn.net/20170526212421812?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemp1d3dq/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast "这里写图片描述")
 
 备注：端口号是在配置文件nginx.conf里面配置的，默认端口是8080，配置文件的位置/usr/local/etc/nginx
+
+## 4.1 查找nginx目录 {#5-关闭nginx}
+
+```
+mac：desktop下command+上方向键 看到user后 shift+command+。 查看隐藏文件usr/local/var/www
+```
 
 ## 5. 关闭nginx {#5-关闭nginx}
 
