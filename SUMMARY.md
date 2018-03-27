@@ -66,4 +66,5 @@
 * [\[ 散例 \]——一些在开发中查找资料最终解决的问题](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti.md)
   * [判断终端执行代码（IOS、Android、Pc）](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/pan-duan-zhong-duan-zhi-xing-dai-ma-ff08-ios-android-pc.md)
   * [安装、使用nginx](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/an-zhuang-3001-shi-yong-nginx.md)
+  * [路径——](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/lu-jing-2014-2014.md)
 
