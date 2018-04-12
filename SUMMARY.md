@@ -69,4 +69,5 @@
   * [路径——](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/lu-jing-2014-2014.md)
   * [时间、数字格式转换](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/shi-jian-3001-shu-zi-ge-shi-zhuan-huan.md)
   * [VUE nextTick处理机制](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/vue-nexttickchu-li-ji-zhi.md)
+  * [npm 应用](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/npm-ying-yong.md)
 
