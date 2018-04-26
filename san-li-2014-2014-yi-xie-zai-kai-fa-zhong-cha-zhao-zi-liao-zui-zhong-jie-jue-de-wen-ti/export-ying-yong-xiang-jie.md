@@ -9,7 +9,6 @@
 export function nameExport (x, y) {
   return x * y
 }
-
 ```
 
 ```
@@ -23,8 +22,6 @@ return x + y
 }
 
 export { use, add }
-
-
 ```
 
 ```
@@ -42,8 +39,6 @@ console.log(nameExport(1, 3))
 export default function () {
 return 1
 }
-
-
 ```
 
     /*
