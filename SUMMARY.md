@@ -75,4 +75,5 @@
   * [export 应用详解](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/export-ying-yong-xiang-jie.md)
   * [JS 语法](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/js-yu-fa.md)
   * [Vue 源码调试](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/vue-yuan-ma-diao-shi.md)
+  * [Vue——slot分发](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/vueslotfen-fa.md)
 
