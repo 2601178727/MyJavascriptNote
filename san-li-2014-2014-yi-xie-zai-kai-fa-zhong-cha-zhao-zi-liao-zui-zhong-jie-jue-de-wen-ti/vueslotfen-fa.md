@@ -18,8 +18,6 @@
 
 ##### 说明：单个slot时，自动匹配，位置随子组件位置改变
 
-
-
 ### **具名slot**
 
 * ###### 子组件
@@ -31,7 +29,6 @@
     <slot name="second"></slot>
   </button>
 </template>
-
 ```
 
 * ###### 父组件
@@ -46,14 +43,6 @@
       <br />这是分发的内容, second
       <br />
      </span>
-     <span>
-      <br />这是分发的内容, nothing
-      <br />
-    </span>
-    <span>
-      <br />这是分发的内容, nothing2
-      <br />
-    </span>
 </children>
 ```
 
