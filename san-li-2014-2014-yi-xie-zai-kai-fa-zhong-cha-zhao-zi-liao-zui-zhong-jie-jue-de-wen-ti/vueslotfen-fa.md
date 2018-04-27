@@ -50,3 +50,45 @@
 
 
 
+### slot 传递参数
+
+* ##### 子组件
+
+```
+<slot name="first-btn" :row="scope.row"></slot>
+```
+
+* ##### 父组件
+
+```
+<template slot="first-btn" slot-scope="props">
+  <el-button @click="btnsss(props.row)">
+     123
+  </el-button>
+</template>
+```
+
+##### 说明：分发带有参数的slot，在vue2.0中新增了slot-scope属性
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
