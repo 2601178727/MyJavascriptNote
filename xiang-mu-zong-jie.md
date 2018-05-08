@@ -91,64 +91,32 @@ vm.viewData = vm.loadViewData(sortData)
 * 定义属性值
 
 ```
-App.less
-文件
-// 
-按钮圆角
-@_buttonRediosGlobal
-: 
-4
-px;
+App.less文件
+// 按钮圆角
+@_buttonRediosGlobal:4px;
 ```
 
 * 定义样式类
 
 ```
-App
-.less
-文件
-.global-edit-btn
-() {
+App.less文件
 
-border-radius
-: 
-@_buttonRediosGlobal
-;
+.global-edit-btn() {
+border-radius: @_buttonRediosGlobal;
 
-padding
-: 
-@_buttonTablePaddingGlobal
-;
+padding: @_buttonTablePaddingGlobal;
 
-font-size
-: 
-@_buttonTableFontSize
-;
+font-size: @_buttonTableFontSize;
 
-border
-: 
-0
-;
+border: 0;
 
-margin-left
-: 
-5px
-;
+margin-left: 5px;
 
-margin-bottom
-: 
-5px
-;
+margin-bottom: 5px;
 
-background-color
-: 
-#e5ecf4
-;
+background-color: #e5ecf4;
 
-color
-: 
-#448aff
-;
+color: #448aff;
 };
 ```
 
