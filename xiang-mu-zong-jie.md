@@ -123,44 +123,26 @@ color: #448aff;
 * 引用
 
 ```
-@import
-'./../../assets/App.less'
-;
+@import'./../../assets/App.less';
 
 
 
-.userTable
-{
+.userTable{
 
-margin-top
-: 
-@_tableMarginTop
-; 
-// 
-引用属性值
-.global-edit-btn
-,
+margin-top: @_tableMarginTop; 
+// 引用属性值
+  .global-edit-btn,
+  .global-edit-btn:focus
+ {
+  .global-edit-btn(); 
+// 引用样式类
+}
 
-.global-edit-btn
-:focus
+.global-delete-btn,
+.global-delete-btn:focus
  {
 
-.global-edit-btn
-(); 
-// 
-引用样式类
-
-    }
-
-.global-delete-btn
-,
-
-.global-delete-btn
-:focus
- {
-
-.global-delete-btn
-();
+.global-delete-btn();
     }
 }
 ```
