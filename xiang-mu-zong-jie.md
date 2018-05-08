@@ -1,4 +1,4 @@
-##### 网址：http://admin.myhbp.org.cn/hmmchina {#一-技术栈}
+##### 网址：[http://admin.myhbp.org.cn/hmmchina](http://admin.myhbp.org.cn/hmmchina) {#一-技术栈}
 
 ##### 一、技术栈 {#一-技术栈}
 
@@ -16,7 +16,6 @@
 -echarts
 
 -less
-
 ```
 
 ##### 二、用到的技术 {#二-用到的技术}
@@ -39,28 +38,16 @@
 
 ```
 普通路由：
-import
- ContentSort 
-from
-'@/page/ContentSortPage/index'
+importContentSort from'@/page/ContentSortPage/index'
 懒加载路由：
 
-const ContentSort = 
-()
- =
->
-import
-(
-'@/page/ContentSortPage/index'
-)
-
+const ContentSort = ()=>import('@/page/ContentSortPage/index')
 ```
 
 * 路由守卫
 
 ```
-和
-methods
+和methods
 同级：
 
 
@@ -77,14 +64,14 @@ res
 ) =
 >
  {
-        
+
 next
 (
 vm
  =
 >
  {
-          
+
 let
  sortData = 
 res
@@ -110,7 +97,7 @@ vm
 )
           })
 
-          
+
 vm
 .viewData = 
 vm
@@ -119,7 +106,6 @@ vm
       }
     )
   }
-
 ```
 
 > element-UI
@@ -151,7 +137,6 @@ App.less
 : 
 4
 px;
-
 ```
 
 * 定义样式类
@@ -162,49 +147,47 @@ App
 文件
 .global-edit-btn
 () {
-    
+
 border-radius
 : 
 @_buttonRediosGlobal
 ;
-    
+
 padding
 : 
 @_buttonTablePaddingGlobal
 ;
-    
+
 font-size
 : 
 @_buttonTableFontSize
 ;
-    
+
 border
 : 
 0
 ;
-    
+
 margin-left
 : 
 5px
 ;
-    
+
 margin-bottom
 : 
 5px
 ;
-    
+
 background-color
 : 
 #e5ecf4
 ;
-    
+
 color
 : 
 #448aff
 ;
 };
-
-
 ```
 
 * 引用
@@ -218,7 +201,7 @@ color
 
 .userTable
 {
-    
+
 margin-top
 : 
 @_tableMarginTop
@@ -227,30 +210,29 @@ margin-top
 引用属性值
 .global-edit-btn
 ,
-    
+
 .global-edit-btn
 :focus
  {
-        
+
 .global-edit-btn
 (); 
 // 
 引用样式类
 
     }
-    
+
 .global-delete-btn
 ,
-    
+
 .global-delete-btn
 :focus
  {
-        
+
 .global-delete-btn
 ();
     }
 }
-
 ```
 
 ##### 三、开发上的反思 {#三-开发上的反思}
@@ -353,7 +335,7 @@ if
  (process.env.NODE_ENV === 
 'development'
 ) {
-  
+
 path
  = 
 'http://10.154.7.122/'
@@ -369,7 +351,7 @@ path
 } 
 else
  {
-  
+
 path
  = 
 'http://101.132.139.245:82/'
@@ -386,7 +368,7 @@ config
 ''
 ,
   terminal: terminal,
-  
+
 path
 : 
 path
@@ -435,9 +417,7 @@ loadmore
 * 统一
 
 ```
-产品需要有一套统一的
-UI
-规范，
+产品需要有一套统一的UI规范，
 前端需要根据
 UI
 规范，实现统一的风格开发
