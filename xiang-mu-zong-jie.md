@@ -55,32 +55,15 @@ const ContentSort = ()=>import('@/page/ContentSortPage/index')
     API.post('api/insights/lists').then(
       (res) =>{
 next(vm =>{
-let sortData = res.get
-(
-'data.data.topicList'
-)
-          sortData.forEach((item, 
-index
-) =
->
- {
+let sortData = res.get('data.data.topicList')
+          sortData.forEach((item, index) =>{
             item.text = item.topic_name
             item.value = item.id
           })
-          sortData.unshift({
-            tex
-t:
-vm
-.$t(
-'message.contentinsight.all'
-)
+          sortData.unshift({text:vm.$t('message.contentinsight.all')
           })
 
-
-vm
-.viewData = 
-vm
-.loadViewData(sortData)
+vm.viewData = vm.loadViewData(sortData)
         })
       }
     )
