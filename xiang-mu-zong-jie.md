@@ -51,32 +51,11 @@ const ContentSort = ()=>import('@/page/ContentSortPage/index')
 同级：
 
 
-  beforeRouteEnter (
-to
-, from, 
-next
-) {
-    API.post(
-'api/insights/lists'
-).then(
-      (
-res
-) =
->
- {
-
-next
-(
-vm
- =
->
- {
-
-let
- sortData = 
-res
-.
-get
+  beforeRouteEnter (to, from, next) {
+    API.post('api/insights/lists').then(
+      (res) =>{
+next(vm =>{
+let sortData = res.get
 (
 'data.data.topicList'
 )
