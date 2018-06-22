@@ -17,5 +17,23 @@ var array = Array.from(items);
 console.log(array);
 ```
 
+> 利用这个特性，可以去除数组的重复元素。
+
+```
+function dedupe(array){
+   return Array.from(new Set(array));
+}
+console.log(dedupe([1,2,3,3]));
+```
+
+> set 遍历
+
+```
+keys( )：返回一个键名的遍历器
+values( )：返回一个键值的遍历器
+entries( )：返回一个键值对的遍历器
+forEach( )：使用回调函数遍历每个成员。
+```
+
 
 
