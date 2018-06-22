@@ -35,5 +35,25 @@ entries( )：返回一个键值对的遍历器
 forEach( )：使用回调函数遍历每个成员。
 ```
 
+> 另一种去重操作
+
+```
+let arr=[3,5,2,2,5,5];
+let unique=[...new Set(arr)];
+console.log(unique);
+```
+
+
+
+
+
+> 延伸ES6 数组
+
+```
+Math.max(1,2,3,4) // 输出最大值
+Math.max(...[1,2,3,4]) // 输出数组最大值
+Math.max.apply(null, [1,[1,2,3],2,3,4]); // 输出数组最大值
+```
+
 
 
