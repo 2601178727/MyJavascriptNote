@@ -43,10 +43,6 @@ let unique=[...new Set(arr)];
 console.log(unique);
 ```
 
-
-
-
-
 > 延伸ES6 数组
 
 ```
