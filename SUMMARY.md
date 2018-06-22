@@ -76,6 +76,7 @@
   * [JS 语法](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/js-yu-fa.md)
   * [Vue 源码调试](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/vue-yuan-ma-diao-shi.md)
   * [Vue——slot分发](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/vueslotfen-fa.md)
+  * [ES6\_Learning](san-li-2014-2014-yi-xie-zai-kai-fa-zhong-cha-zhao-zi-liao-zui-zhong-jie-jue-de-wen-ti/es6learning.md)
 * [项目总结](xiang-mu-zong-jie.md)
   * admin-Hmm
 
